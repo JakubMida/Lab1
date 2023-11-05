@@ -1,0 +1,4 @@
+C:\Users\Student\source\repos\Lab1 24.10.2023\Debug\Lab1 24.10.2023.exe
+C:\Users\Student\source\repos\Lab1 24.10.2023\Debug\Lab1 24.10.2023.pdb
+C:\Users\Kuba\Desktop\Nowy folder\Lab1 24.10.2023\Debug\Lab1 24.10.2023.exe
+C:\Users\Kuba\Desktop\Lab1\Lab1 24.10.2023\Debug\Lab1 24.10.2023.exe
